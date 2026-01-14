@@ -9,6 +9,10 @@
       {
         "appID": "9DBFT49G86.jp.h-test.ulink",
         "paths": [ "*" ]
+      },
+      {
+        "appID": "HAWC576884.jp.co.qnote.photobook2.dev",
+        "paths": [ "*" ]
       }
     ]
   }
